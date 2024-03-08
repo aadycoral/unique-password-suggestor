@@ -1,6 +1,6 @@
 {
   "name": "unique-password-suggestor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -13,5 +13,9 @@
     "jscover": "^0.1.1",
     "mocha": "^7.0.0",
     "strong-pwd-generator": "^1.7.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aadycoral/unique-password-suggestor.git"
   }
 }
