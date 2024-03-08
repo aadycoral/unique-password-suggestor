@@ -1,0 +1,17 @@
+{
+  "name": "unique-password-suggestor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^6.5.1",
+    "jscover": "^0.1.1",
+    "mocha": "^7.0.0",
+    "strong-pwd-generator": "^1.7.1"
+  }
+}
