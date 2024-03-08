@@ -1,6 +1,6 @@
 {
   "name": "unique-password-suggestor",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
     "eslint": "^6.5.1",
     "jscover": "^0.1.1",
     "mocha": "^7.0.0",
-    "strong-pwd-generator": "^1.7.1"
+    "latest-strong-pwd-generator": "^1.7.1"
   },
   "repository": {
     "type": "git",
